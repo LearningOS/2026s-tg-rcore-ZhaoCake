@@ -8,6 +8,7 @@ target/
 # IDE and editor files
 .idea/
 .vscode/
+.direnv/
 *.swp
 *.swo
 *~
