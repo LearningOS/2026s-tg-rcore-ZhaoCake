@@ -141,7 +141,13 @@ C. 挑战线（docs/challenges.md）
 
 - `docs/ai-workflow/README.md`：总路线与任务管理
 - `docs/ai-workflow/ai-collaboration-template.md`：统一记录模板
+- `docs/ai-workflow/knowledge/`：沉淀可复用的知识条目（环境、工具链、排障）
 - `docs/ai-workflow/logs/`：按日期保存每次 AI 协作会话
+
+建议分层规则：
+
+- `logs/` 记录过程（你做了什么、遇到了什么）
+- `knowledge/` 记录结论（以后可直接复用的做法）
 
 这样做的好处：
 
